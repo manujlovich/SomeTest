@@ -1,1 +1,2 @@
-This is main branch with little changes4
+This is main branch fork!
+(with resolved conflict)
